@@ -1,4 +1,3 @@
-@ -1,9 +1 @@
 # Hi there 👋 I’m luren-2hao(lurenyi)
 
 I'm a student at Chongqing University of software engineering.
